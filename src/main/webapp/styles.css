@@ -1,0 +1,25 @@
+@charset "UTF-8";
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.contenedor{
+	width: 500px;
+	background: #48e;
+	height: 500px;
+	padding: 20px;
+	margin: auto;
+	
+}
+p{
+	font-family: sans-serif;
+	font-size: 24px;
+	text-align: center;
+	
+}
+.form-control{
+	width: 50%;
+	
+	
+}
